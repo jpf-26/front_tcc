@@ -1,1 +1,3 @@
-<template>usuario</template>
+<template>
+      <NuxtLink to="calendar">Calendário</NuxtLink>
+</template>
