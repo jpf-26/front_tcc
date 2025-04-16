@@ -16,7 +16,7 @@ const login = () => {
 
 <template>
   <div class="login-container">
-    <h2>LOGIN 123 Teste commit</h2>
+    <h2>Login</h2>
     <form @submit.prevent="login">
       <input v-model="email" type="email" placeholder="Email" required />
       <input v-model="password" type="password" placeholder="Senha" required />
